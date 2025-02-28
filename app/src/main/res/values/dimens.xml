@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Padding untuk tombol -->
+    <dimen name="button_padding_vertical">16dp</dimen>
+    <dimen name="button_padding_horizontal">24dp</dimen>
+
+    <!-- Radius sudut untuk tombol -->
+    <dimen name="button_corner_radius">0dp</dimen>
+    <dimen name="icon_text_spacing">8dp</dimen>
+</resources>
